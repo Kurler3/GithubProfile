@@ -3,7 +3,7 @@
 ## I'm a third-year college student in UESTC and I'm also working full-time as a front-end engineer
 - 🌱 I’m currently learning Next.js and planning to make my portfolio website!
 - 🥅 2022 Goals: Learn more about the back-end and keep up with the latest web techs
-- ⚡ Fun fact: I love to run. I ran 2 half-marathons
+- ⚡ Fun fact: I love to running. I ran 2 half-marathons
 
 ### Connect with me:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   miguelbento2000@gmail.com
