@@ -5,6 +5,10 @@
 - 🥅 2022 Goals: Learn more about the back-end and keep up with the latest web techs
 - ⚡ Fun fact: I love running. I ran 2 half-marathons
 
+### My Personal Portfolio 
+
+My personal portfolio website is deployed at: https://miguel-portfolio.vercel.app/
+
 ### Connect with me:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   miguelbento2000@gmail.com
 <br/>
