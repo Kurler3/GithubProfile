@@ -11,7 +11,6 @@ My personal portfolio website is deployed at: https://miguel-portfolio.vercel.ap
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelbento2000@gmail.com)
-<br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-bento-083b07170/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel.codes.stuff/)
 <br/>
