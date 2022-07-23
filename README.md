@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel
 
-## I'm a third-year college student in UESTC and I'm also working full-time as a front-end engineer
+## I'm a third-year college student in UESTC and a front-end engineer
 - 🌱 I’m currently learning Next.js
 - 🥅 2022 Goals: Learn more about the back-end and keep up with the latest web techs
 - ⚡ Fun fact: I love running. I ran 2 half-marathons
