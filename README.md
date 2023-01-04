@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel
 
-## I'm a third-year college student in UESTC and a FullStack Engineer
+## FullStack Engineer
 
 - 🥅 2023 Goals: Learn more about the back-end and start getting into AI
 
