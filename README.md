@@ -2,8 +2,6 @@
 
 ## FullStack Engineer
 
-- 🥅 2023 Goals: Learn more about the back-end and start getting into AI
-
 ### My Personal Portfolio 
 
 My personal portfolio website is deployed at: https://miguel-portfolio.vercel.app/
